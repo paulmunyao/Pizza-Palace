@@ -42,6 +42,10 @@
   margin-top: 70px;
 }
 
+.menu{
+  text-align: center;
+}
+
 @media only screen and (max-width: 600px) {
   .section1 {
     height: 300px;
