@@ -36,6 +36,14 @@
     margin-top: 70px;
 }
 
+.description img{
+    height: 400px;
+    width: 600px;
+    position: relative;
+    left: 700px;
+    bottom: 200px;
+}
+
 /* .background{
     background-image: url("./images/pizza1.jpg")
 } */
