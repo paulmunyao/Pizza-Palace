@@ -12,6 +12,7 @@
   margin-left: 600px;
   color: white;
   font-size: 30px;
+  margin-top: 30px;
 }
 
 .nav ul a {
@@ -21,4 +22,5 @@
 
 .logo img {
     height: 70px;
+    margin-top: 30px;
 }
