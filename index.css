@@ -1,13 +1,18 @@
-*{
-    margin: 0px;
-    padding: 0px;
+* {
+  margin: 0px;
+  padding: 0px;
 }
 
-.section1{
-    background-color: #502314;
-    height: 600px;
+.section1 {
+  background-color: #502314;
+  height: 600px;
 }
 
-.nav ul{
-    margin-left: 700px;
+.nav ul {
+  margin-left: 700px;
+}
+
+.nav ul a {
+    justify-content: space-between;
+    margin-left: 70px;
 }
