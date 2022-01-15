@@ -15,6 +15,10 @@
 }
 
 .nav ul a {
-    justify-content: space-between;
-    margin-left: 70px;
+  justify-content: space-between;
+  margin-left: 70px;
+}
+
+.logo img {
+    height: 70px;
 }
