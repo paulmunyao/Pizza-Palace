@@ -64,9 +64,21 @@
     margin-left: 400px;
     color: white;
     font-weight: bold;
-    font-size: 40px;
-    margin-top: 30px;
+    font-size: 10px;
+    /* margin-top: 30px; */
     font-family: Flame-Bold;
+  }
+
+  .nav ul a {
+    /* justify-content: space-between; */
+    margin-left: 20px;
+  }
+
+  .logo img {
+    height: 20px;
+    width: 20px;
+    margin-top: 30px;
+    margin-left: 20px;
   }
 }
 
