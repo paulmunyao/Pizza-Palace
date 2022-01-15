@@ -52,6 +52,10 @@
   font-family: Flame-Bold;
 }
 
+.menu p{
+  font-size: 20px;
+}
+
 @media only screen and (max-width: 600px) {
   .section1 {
     height: 300px;
