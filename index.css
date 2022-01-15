@@ -4,8 +4,11 @@
 }
 
 .section1 {
-  background-color: #502314;
   height: 600px;
+  background-image: url("images/pizza4.jpg");
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: cover;
 }
 
 .nav ul {
@@ -28,13 +31,13 @@
     margin-left: 50px;
 }
 
-.description h1 {
+/* .description h1 {
     color: white;
     font-size: 70px;
     font-family: Flame-Bold;
     margin-left: 30px;
     margin-top: 70px;
-}
+} */
 
 .description img{
     height: 400px;
