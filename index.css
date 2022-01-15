@@ -4,7 +4,7 @@
 }
 
 .section1 {
-  height: 800px;
+  height: 700px;
   width: 100%;
   background-image: url("images/pizza4.jpg");
   background-repeat: no-repeat;
@@ -15,7 +15,8 @@
 .nav ul {
   margin-left: 400px;
   color: white;
-  font-size: 30px;
+  font-weight: bold;
+  font-size: 40px;
   margin-top: 30px;
   font-family: Flame-Bold;
 }
@@ -32,13 +33,13 @@
     margin-left: 50px;
 }
 
-/* .description h1 {
+.description h1 {
     color: white;
     font-size: 70px;
     font-family: Flame-Bold;
     margin-left: 30px;
     margin-top: 70px;
-} */
+}
 
 .description img{
     height: 400px;
