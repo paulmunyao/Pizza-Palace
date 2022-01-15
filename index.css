@@ -52,6 +52,10 @@
   font-family: Flame-Bold;
 }
 
+.menu h1{
+  font-weight: bold;
+}
+
 .menu p{
   font-size: 20px;
 }
