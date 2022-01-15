@@ -1,7 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
-  overflow-x: hidden;
+  /* overflow-x: hidden; */
 }
 
 .section1 {
@@ -48,6 +48,26 @@
   position: relative;
   left: 700px;
   bottom: 200px;
+}
+
+@media only screen and (max-width: 600px) {
+  .section1 {
+    height: 300px;
+    width: 100%;
+    background-image: url("images/pizza4.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: cover;
+  }
+
+  /* .nav ul {
+    margin-left: 400px;
+    color: white;
+    font-weight: bold;
+    font-size: 40px;
+    margin-top: 30px;
+    font-family: Flame-Bold;
+  } */
 }
 
 /* .background{
