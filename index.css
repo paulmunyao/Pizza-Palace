@@ -1,7 +1,7 @@
 * {
   margin: 0px;
   padding: 0px;
-  /* overflow-x: hidden; */
+  /* overflow-y: hidden; */
 }
 
 .section1 {
@@ -61,17 +61,16 @@
   }
 
   .nav ul {
-    margin-left: 400px;
+    margin-left: 50px;
     color: white;
     font-weight: bold;
     font-size: 10px;
-    /* margin-top: 30px; */
     font-family: Flame-Bold;
   }
 
   .nav ul a {
-    /* justify-content: space-between; */
-    margin-left: 20px;
+    justify-content: space-between;
+    margin-left: 10px;
   }
 
   .logo img {
@@ -86,7 +85,7 @@
     font-size: 20px;
     font-family: Flame-Bold;
     margin-left: 20px;
-    margin-top: -70px;
+    margin-top: 50px;
   }
 }
 
