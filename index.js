@@ -1,4 +1,6 @@
 $(function () {
-  $("#summary").hide();
+  $("summary").hide();
   $(".cdata-overlay").hide();
+
+  
 });
