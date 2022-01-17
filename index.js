@@ -55,5 +55,7 @@ jQuery(function () {
           case (topping = "extra cheese"):
               totalPrice = totalPrice + 250;
               break;
+              case (topping = "black olives"):
+                  totalPrice = totalPrice + 300;
   }
 });
