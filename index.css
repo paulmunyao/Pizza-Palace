@@ -60,7 +60,12 @@
   justify-content: space-between;
 }
 
-.emoji{
+.place{
+  font-family: Flame-Bold;
+  font-weight: bold;
+}
+
+.emoji {
   height: 100px;
   width: 100px;
 }
