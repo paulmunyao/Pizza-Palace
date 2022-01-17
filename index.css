@@ -60,12 +60,12 @@
   justify-content: space-between;
 }
 
-.order{
+.order {
   height: 1200px;
   width: 100%;
 }
 
-.place{
+.place {
   font-family: Flame-Bold;
   font-weight: bold;
 }
@@ -76,7 +76,7 @@
   margin-left: 700px;
 }
 
-.num{
+.num {
   margin-right: 80px;
 }
 
@@ -156,8 +156,12 @@
   margin-left: 30px;
 }
 
-.deliver{
+.deliver {
   margin-left: 650px;
+}
+
+#checkout {
+  margin-left: 700px;
 }
 
 @media only screen and (max-width: 600px) {
@@ -207,17 +211,25 @@
   }
 
   .emoji {
-  height: 100px;
-  width: 100px;
-  margin-left: 150px;
-}
+    height: 100px;
+    width: 100px;
+    margin-left: 150px;
+  }
 
-.deliver{
-  margin-left: 90px;
-}
+  .deliver {
+    margin-left: 90px;
+  }
 
-.form-select {
-  width: 300px;
-  margin-left:50px;
-}
+  .form-select {
+    width: 300px;
+    margin-left: 50px;
+  }
+
+  #checkout{
+    margin-left: 150px;
+  }
+
+  #number{
+    margin-left: 50px;
+  }
 }
