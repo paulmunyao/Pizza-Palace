@@ -26,7 +26,14 @@ jQuery(function () {
         totalPrice = price * number + 300;
       }
       break;
-      case (size = "medium"):
-          price = 600;
+    case (size = "medium"):
+      price = 600;
+      if (crust === "stuffed crust") {
+        totalPrice = price * number + 200;
+      } else if (crust === "cracked crust") {
+        totalPrice = price * number + 250;
+      } else {
+        totalPrice = price * number + 300;
+      }
   }
 });
