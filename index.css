@@ -75,6 +75,10 @@
   width: 100px;
 }
 
+.num{
+  margin-right: 80px;
+}
+
 .back-image {
   background-image: url("images/fam.jpg");
   background-repeat: no-repeat;
