@@ -25,5 +25,6 @@ jQuery(function () {
       } else {
         totalPrice = price * number + 300;
       }
+      break;
   }
 });
