@@ -61,7 +61,7 @@
 }
 
 .order{
-  height: 700px;
+  height: 900px;
   width: 100%;
 }
 
@@ -78,6 +78,10 @@
 .num{
   margin-right: 80px;
 }
+
+/* .form-group-data{
+  margin-left: -100px;
+} */
 
 .back-image {
   background-image: url("images/fam.jpg");
