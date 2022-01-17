@@ -52,5 +52,7 @@ jQuery(function () {
       case (topping = "pepperoni"):
           totalPrice = totalPrice + 200;
           break;
+          case (topping = "extra cheese"):
+              totalPrice = totalPrice + 250;
   }
 });
