@@ -51,5 +51,6 @@ jQuery(function () {
   switch (topping) {
       case (topping = "pepperoni"):
           totalPrice = totalPrice + 200;
+          break;
   }
 });
