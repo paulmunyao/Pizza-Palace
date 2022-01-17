@@ -18,5 +18,6 @@ jQuery(function () {
     switch (size){
         case size = "small":
             price = 300;
+            if (crust === stuffed crust)
     }
 });
