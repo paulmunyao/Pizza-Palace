@@ -26,5 +26,7 @@ jQuery(function () {
         totalPrice = price * number + 300;
       }
       break;
+      case (size = "medium"):
+          price = 600;
   }
 });
