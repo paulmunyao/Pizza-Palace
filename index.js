@@ -57,5 +57,6 @@ jQuery(function () {
               break;
               case (topping = "black olives"):
                   totalPrice = totalPrice + 300;
+                  break;
   }
 });
