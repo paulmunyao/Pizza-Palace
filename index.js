@@ -7,5 +7,9 @@ jQuery(function () {
       let crust = jQuery("#crust option:selected").val();
       let topping = jQuery("#topping option:selected").val();
       let number = jQuery("#number").val();
+
+    //   function order(s, c, t, n, total) {
+    //     return {s, c, t, n, total};
+    // }
   });
 });
