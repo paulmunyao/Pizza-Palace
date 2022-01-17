@@ -36,5 +36,7 @@ jQuery(function () {
         totalPrice = price * number + 300;
       }
       break;
+      case (size = "large"):
+          price = 1000;
   }
 });
