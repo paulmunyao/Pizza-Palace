@@ -15,5 +15,8 @@ jQuery(function () {
 
     let price;
     let totalPrice;
-    switch (size)
+    switch (size){
+        case size = "small":
+            price = 300;
+    }
 });
