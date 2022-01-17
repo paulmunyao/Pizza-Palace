@@ -2,17 +2,15 @@
 
 Pizza Palace is a fictional web application that offers pizza's ranging from large,small to large
 and that they come with different toppings depending on the way you placed your order.The pizza can be delivered
-to your destination of your choice after the order has been placed. 
+to your destination of your choice after the order has been placed.
 
 ## Technology used
 
 1)HTML<br>2)CSS<br>3)Bootstrap<br>4)Javascript<br>5)JQuery
 
-## Visual
+<!-- ## Visual -->
 
-https://user-images.githubusercontent.com/71633148/148129911-db642f56-3de5-408b-babb-ce4f3633c30b.mp4
-
-## Contributions
+<!-- ## Contributions
 
 I'm open to contributions and learning
 If you wish to do so Kindly
@@ -44,4 +42,4 @@ FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE
 AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
-SOFTWARE. -->
+SOFTWARE. --> -->
