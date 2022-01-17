@@ -73,15 +73,12 @@
 .emoji {
   height: 100px;
   width: 100px;
+  margin-left: 700px;
 }
 
 .num{
   margin-right: 80px;
 }
-
-/* .form-group-data{
-  margin-left: -100px;
-} */
 
 .back-image {
   background-image: url("images/fam.jpg");
@@ -204,4 +201,10 @@
   .btn btn-primary {
     margin-left: 50px;
   }
+
+  .emoji {
+  height: 100px;
+  width: 100px;
+  margin-left: 150px;
+}
 }
