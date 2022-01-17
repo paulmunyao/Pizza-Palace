@@ -215,4 +215,9 @@
 .deliver{
   margin-left: 90px;
 }
+
+.form-select {
+  width: 300px;
+  margin-left:50px;
+}
 }
