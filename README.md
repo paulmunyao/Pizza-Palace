@@ -15,6 +15,7 @@ to your destination of your choice after the order has been placed.
 I'm open to contributions and learning<br>
 If you wish to do so Kindly<br>
 clone the github repo to your terminal and afterwards submit a pull request.<br>
+$ git clone https://
 
 ## Authors
 
