@@ -45,5 +45,11 @@ jQuery(function () {
       } else {
         totalPrice = price * number + 300;
       }
+      break;
+  }
+  break;
+  switch (topping) {
+      case (topping = "pepperoni"):
+          totalPrice = totalPrice + 200;
   }
 });
